@@ -179,16 +179,7 @@ void goHome() {
 
 ---
 
-# ⚡ 9. Circuit Diagram
-
-*(Include the circuit diagram image here)*  
-```md
-![Circuit Diagram](./images/circuit-diagram.png)
-```
-
----
-
-# 📊 10. Results and Discussion
+# 📊 9. Results and Discussion
 
 - The system successfully calculated solar positions from GPS data.  
 - Stepper motors adjusted solar panels accurately with minimal delay.  
@@ -197,7 +188,7 @@ void goHome() {
 
 ---
 
-# 🚀 11. Applications
+# 🚀 10. Applications
 
 - Smart solar power plants  
 - IoT-based renewable energy systems  
@@ -206,7 +197,7 @@ void goHome() {
 
 ---
 
-# 🧠 12. Future Scope
+# 🧠 11. Future Scope
 
 - Integration with **IoT and cloud logging** for performance monitoring  
 - Addition of **real-time LDR feedback** for fine-tuning  
@@ -214,14 +205,14 @@ void goHome() {
 
 ---
 
-# 🧾 13. Conclusion
+# 🧾 12. Conclusion
 
 The **GPS-based dual-axis solar tracker** effectively determines the sun’s position using astronomical calculations and precisely orients the solar panel using stepper motors.  
 The project demonstrates **efficient automation**, **reliable performance**, and **real-time adaptability**.
 
 ---
 
-# 📚 14. References
+# 📚 13. References
 
 - Microchip Technology Inc. — *PIC18F Microcontroller Datasheet*  
 - U-Blox NEO-6M — *GPS Module Datasheet*  
@@ -231,7 +222,7 @@ The project demonstrates **efficient automation**, **reliable performance**, and
 
 ---
 
-# 📸 15. Appendix
+# 📸 14. Appendix
 
 Include:
 - Test results  
