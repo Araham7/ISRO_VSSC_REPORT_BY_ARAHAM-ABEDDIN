@@ -1,15 +1,18 @@
-# 🌞 Development of Embedded Software for the Calculation of Sun’s Azimuth and Elevation Angle Based on NMEA Sentence from GPS Module.
-
-(ISRO – VSSC)
+# 🚀 Development of Embedded Software for the Calculation of Sun’s Azimuth and Elevation Angle Based on NMEA Sentence from GPS Module
+### ISRO – VSSC
 
 ---
 
-## 🏫 Project Details
-**Student Name:** Araham Abeddin  
-**Department:** Electronics and Communication Engineering  
-**Institution:** Maulana Abul Kalam Azad University of Technology, West Bengal  
-**Academic Year:** 2025  
-**Project Guide:** ___________________
+## 🧾 A REPORT
+
+**SUBMITTED TO:**  
+**Dr. P. P. Promod**  
+*Engineer, VSSC, ISRO*  
+
+**BY:**  
+**Araham Abeddin**  
+
+---
 
 ---
 
