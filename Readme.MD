@@ -1,4 +1,6 @@
-# 🌞 Dual Axis Solar Tracker with GPS-based Sun Positioning using PIC18F Microcontroller
+# 🌞 Development of Embedded Software for the Calculation of Sun’s Azimuth and Elevation Angle Based on NMEA Sentence from GPS Module.
+
+(ISRO – VSSC)
 
 ---
 
